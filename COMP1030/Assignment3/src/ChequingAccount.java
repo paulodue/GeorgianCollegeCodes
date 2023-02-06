@@ -4,10 +4,10 @@
  */
 public class ChequingAccount {
     //CHALLENGE 1
-    String firstName;
-    String lastName;
-    Integer balance;
-    String accountNumber;
+    private String firstName;
+    private String lastName;
+    private Integer balance;
+    private String accountNumber;
 
     public ChequingAccount(String firstName, String lastName, Integer balance, String accountNumber) {
         this.firstName = firstName;
