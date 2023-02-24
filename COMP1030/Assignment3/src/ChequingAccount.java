@@ -1,7 +1,4 @@
-/**
- * This is the Project for Assignment 3 - COMP1030
- * Author: Paulo Alves
- */
+
 public class ChequingAccount {
     //CHALLENGE 1
     private String firstName;
