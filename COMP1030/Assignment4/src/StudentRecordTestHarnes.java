@@ -1,4 +1,3 @@
-import javax.management.ObjectName;
 import java.util.Scanner;
 
 /**
@@ -8,7 +7,6 @@ import java.util.Scanner;
  * since 02/2023
  */
 
-//CHALLENGE 3
 public class StudentRecordTestHarnes {
     public static void main(String[] args) {
         StudentRecord stu1 = new StudentRecord("Paulo", "Alves", "34560", 99);
