@@ -10,8 +10,7 @@ public class MovieTicketTestHarness {
     public static void main(String[] args) {
 
         MovieTicket movie1 = new MovieTicket();
-
-
+        
         Scanner scan1 = new Scanner(System.in);
         System.out.print("Set a name for you movie -> ");
         String nameForMovie = scan1.next();

@@ -1,10 +1,10 @@
 public class teste {
-    public static void main(String[] args) {
 
-        String _teste = "teste";
+        int teste = 1;
 
-        System.out.println(_teste);
+        Teste() {
+
+        }
         
 
-    }
 }
