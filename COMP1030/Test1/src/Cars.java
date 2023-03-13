@@ -1,7 +1,7 @@
 /**
  * This is Test 1 - COMP1030
  * @author Paulo Alves
- * @since 02/13/2023
+ * @since 03/13/2023
  * @version 1.0
  */
 
@@ -14,6 +14,10 @@ public class Cars {
     public Cars(String color, Integer numberOfWheels) {
         this.color = color;
         this.numberOfWheels = numberOfWheels;
+    }
+
+    public Cars() {
+
     }
 
     public String getColor() {
