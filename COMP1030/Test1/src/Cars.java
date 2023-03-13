@@ -7,8 +7,8 @@
 
 public class Cars {
 
-    private String color = "blue";
-    private Integer numberOfWheels = 4;
+    private String color;
+    private Integer numberOfWheels;
 
 
     public Cars(String color, Integer numberOfWheels) {
