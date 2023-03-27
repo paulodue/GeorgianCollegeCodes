@@ -2,21 +2,27 @@ import java.util.Arrays;
 
 public class CollegeCourseTestHarness {
     public static void main(String[] args) {
-        int rows = 20;
-        int columns = 5;
 
-        int[] courseArray = new int[rows];
-        Arrays.fill(courseArray, 0, 10, 0 );
-        Arrays.fill(courseArray, 11, 20, 9999);
+        int rows = 200;
+        int columns = 10;
 
-        for (int ints : courseArray) {
-            System.out.print(ints + " ");
+        int[][] courseArray = new int[rows][columns];
+
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < columns; j++) {
+                if (i < 100){
+                    courseArray[i][j] = 0;
+                } else {
+                    courseArray[i][j] = 9999;
+                }
+            }
         }
 
-        String newLine = System.getProperty("line.separator");
-        System.out.println(newLine + courseArray.length);
-
-
-
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < columns; j++) {
+                System.out.print(courseArray[i][j] + "\t");
+            }
+            System.out.print("\n");
+        }
     }
 }
