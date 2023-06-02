@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89753ad7-c5ce-4f9d-9f4b-7d51ddba1f48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assigment8/Assigment8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assignment3/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assignment4/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assignment5/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assignment6/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Assignment7/Assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test1/Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test2/Question10/Question10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test2/Question8/Question8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test2/Question9/Question9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test3 - Q1/Test3 - Q1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test3-q2/Test3-q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/Test3-q3/Test3-q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Term1/COMP1030/teste/teste.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/Assigment8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/out/production/Assigment8/CollegeCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/out/production/Assigment8/CollegeCourseTestHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/src/CollegeCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assigment8/src/CollegeCourseTestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/Assignment3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/out/production/Assignment3/ChequingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/out/production/Assignment3/ChequingAccountTestHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/src/ChequingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment3/src/ChequingAccountTestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/Assignment4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/out/production/Assignment4/StudentRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/out/production/Assignment4/StudentRecordTestHarnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/src/StudentRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment4/src/StudentRecordTestHarnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/Assignment5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/src/Costumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/src/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment5/src/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/Assignment6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/out/production/Assignment6/MovieTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/out/production/Assignment6/MovieTicketTestHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/src/MovieTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment6/src/MovieTicketTestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/Assignment7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/out/production/Assignment7/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/out/production/Assignment7/BankHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/src/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Assignment7/src/BankHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Pasta Sem Título.textClipping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/Test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/out/production/Test1/Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/out/production/Test1/CarsTestHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/src/Cars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test1/src/CarsTestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/Question10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/out/production/Question10/question10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question10/src/question10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/Question8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/out/production/Question8/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/out/production/Question8/StudentHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question8/src/StudentHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/Question9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/Test2/Question9/src/Question9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/out/production/teste/teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/src/teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../COMP1030/teste/teste.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2QKj3haiXudvmYzlDarSUAZrwQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/paulo/Documents/GeorgianCollegeCodes/Term2/COMP1008 - Java/Assignments/Assignment1/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89753ad7-c5ce-4f9d-9f4b-7d51ddba1f48" name="Changes" comment="" />
+      <created>1685108969072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685108969072</updated>
+      <workItem from="1685108970139" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
