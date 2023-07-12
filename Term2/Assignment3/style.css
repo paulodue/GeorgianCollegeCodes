@@ -1,0 +1,124 @@
+/* creating a gradient at the background */
+html {
+    background-image: linear-gradient(rgb(236, 193, 18), rgb(250, 240, 201))    
+}
+
+header{
+    color: black;
+    text-align: center;
+    font-size: medium;
+}
+main{
+    text-align: center;
+    color: white;
+    /* using this color to harmozine with the Pacoquita logo */
+    border: 2px solid red;
+    width: 60%;
+    height: 50%;   
+    position: relative;
+    margin: 0 auto;
+    background-size: 1450px 1600px;
+    /* no-repeat used to only show the image once */
+    background-repeat: no-repeat;
+
+}
+table{
+    border: 1px solid black;
+    /* used to show the borders on the table */
+    border-collapse: collapse;
+    position: relative;
+    margin: 0 auto;
+    min-width: 300px;
+}
+td{
+    padding: 5px 10px;
+    border-right: 1px solid black;
+}
+tr{
+    border-bottom: 1px solid black;
+}
+h3 {
+    color: black;
+    text-align: center;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+}
+h4 {
+    color: black;
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+    width: 640px;
+}
+#pacoquinha-info {
+    font-family: 'ABeeZee', sans-serif;
+    background-image: url("pacoquinha2.png");
+    background-repeat: no-repeat;
+    background-size: 40% 50%;
+    border: 2px solid red;
+    width: 60%;
+    height: 50%;   
+    position: relative;
+    margin: 0 auto;
+}
+#nutrition-facts{
+    font-family: 'Alata', sans-serif;
+    color: black;
+    border:1px solid blue;
+    width: 60%;
+    height: 50%;
+    position: relative;
+    margin: 0 auto;
+}
+#contact_area {
+    color: black;
+    border:1px solid black;
+    width: 60%;
+    height: 50%;
+    position: relative;
+    margin: 0 auto;
+}
+#where_to_buy {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+
+}
+#pacoquinha1{
+    width: 300px;
+}
+#logo{
+    width: 200px;
+}
+#footer {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    color: black;
+}
+/* this part of the code I'm using to do the efect of transition between colors from the left to the right */
+.btn{
+    border: none;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 200px;
+    /* used when the user put the cursor on the button */
+    cursor: pointer;
+    color: black;
+    /* used 200% to set the 2 colors on the button and shows the color in a single transition */
+    background-size: 200%;
+    transition: 0.8s;
+}
+.btn1{
+    /* linear-gradient is used to progressive transition between the 3 colors I think works for the Amazon button (harmonize with the Amazon logo's color as well */
+    background-image: linear-gradient(to left, #f1c40f, #d35400, #f1c40f);
+}
+.btn2{
+    /* same as the Amazon but this link goes to a Brazilian Supermarket in Toronto, that's why I'm using green and yellow color for the button */
+    background-image: linear-gradient(to left, #27ae60, #fff200, #27ae60);
+}
+.btn:hover{
+    /* using this for the efect starts on the left and goes until the end on the right side */
+    background-position: right;
+}

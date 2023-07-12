@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3 - How Sweet Is This!</title>
+    <meta name="author" content="Paulo Alves">
+    <meta name="description" content="Assignment 3 - How Sweet Is This!">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <!-- Importing image for the top of the page -->
+        <img src="pacoquinha1.png" alt="Pacoquinha" id="pacoquinha1"><br><br>
+
+        <div id="pacoquinha-info">
+            <!-- Area to describe the candy-->
+            <h1>PAÇOQUITA</h1><br>
+            <h2>The best Brazilian candy!</h2>
+            <h3>Paçoca is a very famous sweet and one of the most beloved by Brazilians. Tasty, dry and addictive, many people don't know her origin.</h3>
+            <h4>The candy served as food for prospectors who went looking for diamonds on the banks of the Tibagi River, in Paraná. It originated in the saddlebags of the tropeiros and the lords of the sesmarias of Campos Gerais. In the beginning, meat paçoca served as food for these garimpeiros, because they walked about 20 days to reach the mining site, and needed a food that could be prepared quickly.</h4><br>
+            <h4>With commercial industrialization, paçoca started to be prepared with other ingredients, reaching the way it is known today: made with peanuts, cassava flour and sugar. Its fame and tasting is immense in several regions of the country, being traditional in parties like São João, birthdays and events.</h4><br>
+        </div>
+
+    </header>
+    <br><br><br>
+
+
+    <main>
+        <br>
+    <div id="nutrition-facts">
+        <h2>NUTRITION FACTS</h2>
+        <h2>PORTION OF 22 G (1 UNIT)</h2>
+        <!-- Im using the tag TABLE to create a table with the informations about the candy
+        TD stands for Table DATA and TR for Table Row -->
+        <table>
+            <tr>
+                <td>Calories</td>
+                <td>110kcal = 462 kJ</td>
+            </tr><br>
+            <tr>
+                <td>Carbohydrate</td>
+                <td>12g</td>
+            </tr>
+            <tr>
+                <td>Protein</td>
+                <td>3,4g</td>
+            </tr>
+            <tr>
+                <td>Fat</td>
+                <td>5,4g</td>
+            </tr>
+            <tr>
+                <td>Dietary Fiber</td>
+                <td>1,0g</td>
+            </tr>
+            <tr>
+                <td>Sodium</td>
+                <td>23mg</td>
+            </tr>
+        </table>
+        <br>
+    </div>
+    <h2 id="where_to_buy">Where to buy?</h2>
+    <div>
+        <!-- Adding some links to buy the candy. Im using the "window.open" and "_blank" parameters to open the pages in a new tab causing the project not to close  -->
+        <button onclick="window.open('https://www.amazon.ca/Pacoquinha-Tradicional-Doce-Amendoim-1008/dp/B07FT66331/ref=sr_1_4?crid=CEV7NNEPG3NA&keywords=pacoquinha&qid=1689129006&sprefix=pacoquinh%2Caps%2C94&sr=8-4','_blank')" class="btn btn1">AMAZON</button>
+        <button onclick=" window.open('https://www.brazilianschoice.ca/product/da-colonia-traditional-peanut-cork-candy-big-1-008-kg/','_blank')" class="btn btn2">Brazilian Supermarket</button>
+    </div>
+    <br><br>
+    <footer>
+        <img src="logo.png" id="logo"><br>
+        <medium id="footer">About Santa Helena <br>
+            Since 1942, they have brought joy and flavor through quality products, always concerned with maintaining a good source of all the raw materials we use. The result? When you think of peanut candy, everyone thinks of Pacoquita, just as when you think of Japanese peanuts, everyone thinks of Mendorato. These products have already become synonymous with the category, a great national and international recognition that reflects our strict quality control, in addition to the desire to surprise each of our customers and consumers day after day!
+            <br><br>
+            
+            <!-- Creating the form for the user input his information in case he needs to contact us -->
+            <div id="contact_area">Any questions? Send us an email!</medium><br><br>
+                <form id="footer">
+                    <div>
+                    <label for="fName">Full name:</label>
+                    <input required placeholder="Type your full name..." type="text" id="fName" name="fName">
+                    </div>
+
+                    <br>
+                    
+                    <div>
+                    <label for="email">Email:</label>
+                    <input required placeholder="Type your email..." type="email" id="email" name="email">
+                    </div>
+
+                    <br>
+
+                    <div>
+                        <label for="freeform">Email body: </label> <br><br>
+                        <textarea required placeholder="Insert the text here..." id="freeform" name="freeform" rows="4" cols="50"></textarea>
+                    </div>
+                    
+                    <br>
+
+                    <div>
+                        <input type="submit">
+
+                    </div><br>
+                </form>
+            </div>
+    </footer><br>
+    </main>
+    
+</body>
+</html>
